@@ -1,0 +1,28 @@
+body {
+    background-color: #E2FFFF;
+    color : #47646f;
+    font-family: Arial,Verdana,Sans-serif;
+}
+h1{
+    background-color : #237B7B;
+    color: #E2FFFF;
+    font-family: Georgia, "Times new Roman", serif;
+    line-height: 200%;
+    text-indent: 1em;
+    text-shadow: 3px 3px 5px #000000;
+}
+
+nav{
+    font-weight: bold;
+    font-size: 1.25 em;
+    word-spacing: 1em;
+    color: blue;
+    
+}
+footer 
+{
+    color : #333333;
+    font-size: .75em;
+    font-style: italic;
+    
+}
